@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.API", "Services\Acc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.API", "Identity\Identity.API\Identity.API.csproj", "{93BF7E5B-5F7B-44E9-8E6F-BB24D114C92C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AniDate.Common", "AniDate.Common\AniDate.Common.csproj", "{3E2E36EB-9948-491E-9F82-177DFE059681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{93BF7E5B-5F7B-44E9-8E6F-BB24D114C92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93BF7E5B-5F7B-44E9-8E6F-BB24D114C92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93BF7E5B-5F7B-44E9-8E6F-BB24D114C92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2E36EB-9948-491E-9F82-177DFE059681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2E36EB-9948-491E-9F82-177DFE059681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2E36EB-9948-491E-9F82-177DFE059681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2E36EB-9948-491E-9F82-177DFE059681}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
