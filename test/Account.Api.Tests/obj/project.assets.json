@@ -1899,6 +1899,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Account.Entities": "1.0.0",
           "AniDate.Common": "1.0.0"
         },
         "compile": {
@@ -1910,6 +1911,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Account.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Account.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Account.Entities.dll": {}
+        }
       },
       "AniDate.Common/1.0.0": {
         "type": "project",
@@ -6371,6 +6382,11 @@
       "path": "../../src/Services/Account/Account.API/Account.API.csproj",
       "msbuildProject": "../../src/Services/Account/Account.API/Account.API.csproj"
     },
+    "Account.Entities/1.0.0": {
+      "type": "project",
+      "path": "../../src/Services/Account/Account.Entities/Account.Entities.csproj",
+      "msbuildProject": "../../src/Services/Account/Account.Entities/Account.Entities.csproj"
+    },
     "AniDate.Common/1.0.0": {
       "type": "project",
       "path": "../../src/AniDate.Common/AniDate.Common.csproj",
@@ -6380,6 +6396,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Account.API >= 1.0.0",
+      "Account.Entities >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "coverlet.collector >= 1.0.1",
       "xunit >= 2.4.0",
@@ -6418,6 +6435,9 @@
           "projectReferences": {
             "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.API\\Account.API.csproj": {
               "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.API\\Account.API.csproj"
+            },
+            "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj": {
+              "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj"
             }
           }
         }

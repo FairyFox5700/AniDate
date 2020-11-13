@@ -21,6 +21,9 @@
         "projectReferences": {
           "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.API\\Account.API.csproj": {
             "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.API\\Account.API.csproj"
+          },
+          "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj": {
+            "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj"
           }
         }
       }

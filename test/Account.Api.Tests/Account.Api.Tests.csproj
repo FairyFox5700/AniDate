@@ -15,6 +15,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\src\Services\Account\Account.API\Account.API.csproj" />
+      <ProjectReference Include="..\..\src\Services\Account\Account.Entities\Account.Entities.csproj" />
     </ItemGroup>
 
 </Project>
