@@ -1,0 +1,8 @@
+D:\Предмети\MyProject\AniDate\src\AniDate.Common\bin\Debug\netstandard2.1\AniDate.Common.deps.json
+D:\Предмети\MyProject\AniDate\src\AniDate.Common\bin\Debug\netstandard2.1\AniDate.Common.dll
+D:\Предмети\MyProject\AniDate\src\AniDate.Common\bin\Debug\netstandard2.1\AniDate.Common.pdb
+D:\Предмети\MyProject\AniDate\src\AniDate.Common\obj\Debug\netstandard2.1\AniDate.Common.csprojAssemblyReference.cache
+D:\Предмети\MyProject\AniDate\src\AniDate.Common\obj\Debug\netstandard2.1\AniDate.Common.AssemblyInfoInputs.cache
+D:\Предмети\MyProject\AniDate\src\AniDate.Common\obj\Debug\netstandard2.1\AniDate.Common.AssemblyInfo.cs
+D:\Предмети\MyProject\AniDate\src\AniDate.Common\obj\Debug\netstandard2.1\AniDate.Common.dll
+D:\Предмети\MyProject\AniDate\src\AniDate.Common\obj\Debug\netstandard2.1\AniDate.Common.pdb

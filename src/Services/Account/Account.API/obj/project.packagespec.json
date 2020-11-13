@@ -18,7 +18,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj": {
+            "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "17VuDxpOq1RL0m5OCMaF6mkA3Iun5ZkIgSOtUUC88awV8bWgpopANbtTDVu6ipbx+a4lgTiXLjEhZJN5YeMr0A==",
+  "dgSpecHash": "T7yGi9VKLn/cdT5cIS7HcRyv/69XTQBC4N+lpU20iLy4F6+2delgi7O+aMZo7UwSwhLQnKZajvNihetDH6Tkfw==",
   "success": true,
   "projectFilePath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.API\\Account.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
