@@ -12,7 +12,7 @@ namespace Account.Bl.Abstract.Services
         Task<ApiResponse<PetDetailsResponse>> GetPetById(int petId);
         Task<ApiResponse<PetDetailsResponse>> GetPetByUserId(int userId);
         Task<ApiResponse<int>> AddPet(PetPostFullRequest petPostFullRequest);
-        Task<ApiResponse<PetDetailsResponse>> UpdatePet(int petId, PetPutRequest petPutRequest);
-        Task<ApiResponse> DeletePet(int petId);
+        Task<ApiResponse<int>> UpdatePet(int petId, PetPutRequest petPutRequest);
+        Task<ApiResponse<int>> DeletePet(int petId);
     }
 }

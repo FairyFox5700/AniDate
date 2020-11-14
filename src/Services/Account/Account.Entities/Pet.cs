@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace Account.API.Entities
 {
@@ -9,6 +10,7 @@ namespace Account.API.Entities
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int PetId { get; set; }
         public int UserId { get; set; }
+        public string PetName { get; set; }
         public int ImageId { get; set; }
         public bool IsMail { get; set; }
         public string Breed { get; set; }
@@ -16,6 +18,7 @@ namespace Account.API.Entities
         public string AboutMe { get; set; }
     }
 
+    [JsonConverter(typeof(JsonStringEnumConverter))]
     public enum AnimalType
     {
         Cat,

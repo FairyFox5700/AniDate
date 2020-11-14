@@ -33,7 +33,11 @@ namespace AniDate.Common.Wrappers
             Data = result;
             this.IsError = false;
         }
-        public ApiResponse(int statusCode, ApiErrorResponse apiError) : base(statusCode, apiError) { }
+
+        public ApiResponse(int statusCode, ApiErrorResponse apiError) : base(statusCode, apiError)
+        {
+            this.IsError = true;
+        }
         public override string ToString()
         {
             return JsonConvert.SerializeObject(this).ToString();

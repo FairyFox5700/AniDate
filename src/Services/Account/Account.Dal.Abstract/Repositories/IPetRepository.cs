@@ -11,7 +11,7 @@ namespace Account.Dal.Abstract.Repositories
         Task<Pet> GetPetById(int petId);
         Task<Pet> GetPetByUserId(int userId);
         Task<int> AddPet(Pet newPet);
-        Task<Pet> UpdatePet(int petId, Pet petPutRequest);
-        Task<bool> DeletePet(int petId);
+        Task<Pet> UpdatePet(Pet petPutRequest);
+        Task<int> DeletePet(int petId);
     }
 }

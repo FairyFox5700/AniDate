@@ -1,0 +1,15 @@
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\bin\Debug\netcoreapp3.1\Account.Dal.Impl.deps.json
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\bin\Debug\netcoreapp3.1\Account.Dal.Impl.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\bin\Debug\netcoreapp3.1\Account.Dal.Impl.pdb
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\bin\Debug\netcoreapp3.1\Account.Dal.Abstract.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\bin\Debug\netcoreapp3.1\Account.Entities.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\bin\Debug\netcoreapp3.1\Account.Model.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\bin\Debug\netcoreapp3.1\Account.Dal.Abstract.pdb
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\bin\Debug\netcoreapp3.1\Account.Entities.pdb
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\bin\Debug\netcoreapp3.1\Account.Model.pdb
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\obj\Debug\netcoreapp3.1\Account.Dal.Impl.csprojAssemblyReference.cache
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\obj\Debug\netcoreapp3.1\Account.Dal.Impl.AssemblyInfoInputs.cache
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\obj\Debug\netcoreapp3.1\Account.Dal.Impl.AssemblyInfo.cs
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\obj\Debug\netcoreapp3.1\Account.Dal.Impl.csproj.CopyComplete
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\obj\Debug\netcoreapp3.1\Account.Dal.Impl.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl\obj\Debug\netcoreapp3.1\Account.Dal.Impl.pdb

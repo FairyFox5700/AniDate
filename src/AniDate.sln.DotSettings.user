@@ -1,10 +1,55 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31578e62_002D47db_002D4599_002D8d42_002D6d561b48e500/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPets_WhenNoParameters_ReturnsAllPets" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2570d71c_002D84da_002D4722_002Db4dc_002Decae50a16539/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPetById_WhenPetNotFound_ReturnsNotFound" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest.GetPets_WhenNoParameters_ReturnsAllPets&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest.GetPetById_WhenPetNotFound_ReturnsNotFound&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31578e62_002D47db_002D4599_002D8d42_002D6d561b48e500/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPets_WhenNoParameters_ReturnsAllPets" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Or&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsServiceTest.GetPets_WhenNoParameters_ReturnsAllPets&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest.DeletePet_WhenNotFound_ReturnsNotFound&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest.GetPetById_WhenPetNotFound_ReturnsNotFound&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=320c5dba_002D95d2_002D4a3a_002Da4c5_002Dab107916a6c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PostPet_WhenNewAdded_ReturnsCreatedPetId #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5036edb4_002De69e_002D4041_002D89c6_002Db561e44439cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="QueryPetsListReturnsCorrectPets" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=571c2de9_002D8abd_002D40c6_002Db686_002D64c772f016f5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPetByUserId_WhenPetFound_ReturnsCorrectPet" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Or&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest.GetPetByUserId_WhenPetFound_ReturnsCorrectPet&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest.GetPetByUserId_WhenPetNotFound_ReturnsNotFound&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest.PostPet_WhenNewAdded_ReturnsCreatedPetId&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a6fe429b_002D764f_002D4442_002Dbc80_002D13598a535f94/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PostPet_WhenNewAdded_ReturnsCreatedPetId" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest.PostPet_WhenNewAdded_ReturnsCreatedPetId&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d71a256a_002Daadd_002D48b1_002Da6e5_002De61290ca0c4d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPetById_WhenPetNotFound_ReturnsNotFound #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;

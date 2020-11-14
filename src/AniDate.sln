@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Bl.Abstract", "Serv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Bl.Impl", "Services\Account\Account.Bl.Impl\Account.Bl.Impl.csproj", "{1314FB8A-A6D6-40B6-801D-B733599ED56C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Bl.Tests", "Services\Account\Account.Bl.Tests\Account.Bl.Tests.csproj", "{B1864E96-82A2-4188-AB88-4F27996B1EBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{1314FB8A-A6D6-40B6-801D-B733599ED56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1314FB8A-A6D6-40B6-801D-B733599ED56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1314FB8A-A6D6-40B6-801D-B733599ED56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1864E96-82A2-4188-AB88-4F27996B1EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1864E96-82A2-4188-AB88-4F27996B1EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1864E96-82A2-4188-AB88-4F27996B1EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1864E96-82A2-4188-AB88-4F27996B1EBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

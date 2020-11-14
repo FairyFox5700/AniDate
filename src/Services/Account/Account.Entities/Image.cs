@@ -12,5 +12,6 @@ namespace Account.API.Entities
         public int ImageId { get; set; }
         public string ImageFileName { get; set; }
         public string ImageUri { get; set; }
+        public  string Extension { get; set; }
     }
 }

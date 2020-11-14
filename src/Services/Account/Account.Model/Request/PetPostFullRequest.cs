@@ -4,8 +4,8 @@ namespace Account.Model.Request
 {
     public class PetPostFullRequest
     {
-        public int PetId { get; set; }
         public int UserId { get; set; }
+        public string PetName { get; set; }
         public bool IsMail { get; set; }
         public string Breed { get; set; }
         public AnimalType AnimalType { get; set; }
