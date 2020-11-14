@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6KVsINMyGdJaeIqMVcRSn4akatXsmuMw/yAA+nGHctdARPK3v4tvakZh+jKSeIejc+Lac2jOquEFbUhdrG+RQ==",
+  "success": true,
+  "projectFilePath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Impl\\Account.Bl.Impl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -21,3 +21,7 @@ D:\Предмети\MyProject\AniDate\src\Services\Account\Account.API\obj\Debug
 D:\Предмети\MyProject\AniDate\src\Services\Account\Account.API\obj\Debug\netcoreapp3.1\Account.API.csproj.CopyComplete
 D:\Предмети\MyProject\AniDate\src\Services\Account\Account.API\obj\Debug\netcoreapp3.1\Account.API.dll
 D:\Предмети\MyProject\AniDate\src\Services\Account\Account.API\obj\Debug\netcoreapp3.1\Account.API.pdb
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.API\bin\Debug\netcoreapp3.1\Account.Dal.Abstract.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.API\bin\Debug\netcoreapp3.1\Account.Entities.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.API\bin\Debug\netcoreapp3.1\Account.Dal.Abstract.pdb
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.API\bin\Debug\netcoreapp3.1\Account.Entities.pdb

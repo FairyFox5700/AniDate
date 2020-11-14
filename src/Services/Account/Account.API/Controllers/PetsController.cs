@@ -1,6 +1,12 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
+using System.Threading.Tasks;
 using Account.API.Entities;
+using Account.Dal.Abstract.Repositories;
+using Account.Model.Request;
+using Account.Model.Response;
 using AniDate.Common.Wrappers;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,41 +16,28 @@ namespace Account.API.Controllers
     [Route("api/pets")]
     public class PetsController:ControllerBase
     {
-        public PetsController()
+        private readonly IPetRepository<int> _petRepository;
+
+        public PetsController(IPetRepository<int>petRepository)
         {
-            
+            _petRepository = petRepository;
         }
+        
+        //api/pets
         //TODO DTOs!!!
         [HttpGet]
-        public ApiResponse<IEnumerable<Pet>> GetAllPets()
+        public async Task<ApiResponse<IEnumerable<Pet>>> GetAllPets()
         {
-           return  new ApiResponse<IEnumerable<Pet>>()
-           {
-               Data = new List<Pet>
-               {
-                   new Pet()
-                   {
-                       PetId = 1,
-                       AboutMe = "I am cat",
-                       AnimalType = AnimalType.Cat,
-                       Breed = "meat",
-                       ImageId = 1,
-                       IsMail = true,
-                       UserId = 1
-                   },
-                   new Pet()
-                   {
-                       PetId = 2,
-                       AboutMe = "I am cat",
-                       AnimalType = AnimalType.Cat,
-                       Breed = "meat",
-                       ImageId = 1,
-                       IsMail = true,
-                       UserId = 1
-                   }
-               }
-           };
-           
+            return new ApiResponse<IEnumerable<Pet>>(await _petRepository.GetPets());
         }
-    }
+        
+        //api/pets?petId={petId}
+        [HttpGet]
+        [Route("{petId}")]
+        public async Task<ApiResponse<IEnumerable<Pet>>> GetPetById(int petId)
+        {
+            return new ApiResponse<IEnumerable<Pet>>(await _petRepository.GetPetById(petId));
+        }
+        
+       
 }

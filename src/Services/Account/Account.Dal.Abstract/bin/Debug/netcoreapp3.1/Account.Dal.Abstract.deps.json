@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Account.Dal.Abstract/1.0.0": {
+        "dependencies": {
+          "Account.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Account.Dal.Abstract.dll": {}
+        }
+      },
+      "Account.Entities/1.0.0": {
+        "runtime": {
+          "Account.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Account.Dal.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Account.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

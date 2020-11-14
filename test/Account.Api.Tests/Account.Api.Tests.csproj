@@ -8,6 +8,7 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.2.0" />
+        <PackageReference Include="Moq" Version="4.15.1" />
         <PackageReference Include="xunit" Version="2.4.0" />
         <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
         <PackageReference Include="coverlet.collector" Version="1.0.1" />
@@ -15,6 +16,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\src\Services\Account\Account.API\Account.API.csproj" />
+      <ProjectReference Include="..\..\src\Services\Account\Account.Dal.Abstract\Account.Dal.Abstract.csproj" />
       <ProjectReference Include="..\..\src\Services\Account\Account.Entities\Account.Entities.csproj" />
     </ItemGroup>
 

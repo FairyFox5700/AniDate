@@ -1,11 +1,68 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Account.Dal.Abstract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Account.Entities": "1.0.0",
+          "Account.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Account.Dal.Abstract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Account.Dal.Abstract.dll": {}
+        }
+      },
+      "Account.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Account.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Account.Entities.dll": {}
+        }
+      },
+      "Account.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Account.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Account.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Account.Model.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Account.Dal.Abstract/1.0.0": {
+      "type": "project",
+      "path": "../Account.Dal.Abstract/Account.Dal.Abstract.csproj",
+      "msbuildProject": "../Account.Dal.Abstract/Account.Dal.Abstract.csproj"
+    },
+    "Account.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Account.Entities/Account.Entities.csproj",
+      "msbuildProject": "../Account.Entities/Account.Entities.csproj"
+    },
+    "Account.Model/1.0.0": {
+      "type": "project",
+      "path": "../Account.Model/Account.Model.csproj",
+      "msbuildProject": "../Account.Model/Account.Model.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Account.Dal.Abstract >= 1.0.0",
+      "Account.Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Admin\\.nuget\\packages\\": {},
@@ -36,7 +93,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj": {
+              "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj"
+            },
+            "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj": {
+              "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

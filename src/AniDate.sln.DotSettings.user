@@ -1,4 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31578e62_002D47db_002D4599_002D8d42_002D6d561b48e500/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPets_WhenNoParameters_ReturnsAllPets" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest.GetPets_WhenNoParameters_ReturnsAllPets&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5036edb4_002De69e_002D4041_002D89c6_002Db561e44439cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="QueryPetsListReturnsCorrectPets" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest&lt;/TestId&gt;&#xD;

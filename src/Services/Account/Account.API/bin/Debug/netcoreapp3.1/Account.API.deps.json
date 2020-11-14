@@ -24,6 +24,8 @@
     ".NETCoreApp,Version=v3.1": {
       "Account.API/1.0.0": {
         "dependencies": {
+          "Account.Dal.Abstract": "1.0.0",
+          "Account.Entities": "1.0.0",
           "AniDate.Common": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -335,6 +337,25 @@
         },
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Account.Dal.Abstract/1.0.0": {
+        "dependencies": {
+          "Account.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Account.Dal.Abstract.dll": {}
+        },
+        "compile": {
+          "Account.Dal.Abstract.dll": {}
+        }
+      },
+      "Account.Entities/1.0.0": {
+        "runtime": {
+          "Account.Entities.dll": {}
+        },
+        "compile": {
+          "Account.Entities.dll": {}
         }
       },
       "AniDate.Common/1.0.0": {
@@ -2062,6 +2083,16 @@
       "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "path": "newtonsoft.json/12.0.3",
       "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Account.Dal.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Account.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "AniDate.Common/1.0.0": {
       "type": "project",

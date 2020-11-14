@@ -18,7 +18,14 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj": {
+            "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj"
+          },
+          "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj": {
+            "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

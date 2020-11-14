@@ -101,3 +101,9 @@ D:\Предмети\MyProject\AniDate\test\Account.Api.Tests\obj\Debug\netcoreap
 D:\Предмети\MyProject\AniDate\test\Account.Api.Tests\obj\Debug\netcoreapp3.1\Account.Api.Tests.csproj.CopyComplete
 D:\Предмети\MyProject\AniDate\test\Account.Api.Tests\obj\Debug\netcoreapp3.1\Account.Api.Tests.dll
 D:\Предмети\MyProject\AniDate\test\Account.Api.Tests\obj\Debug\netcoreapp3.1\Account.Api.Tests.pdb
+D:\Предмети\MyProject\AniDate\test\Account.Api.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Предмети\MyProject\AniDate\test\Account.Api.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+D:\Предмети\MyProject\AniDate\test\Account.Api.Tests\bin\Debug\netcoreapp3.1\Account.Dal.Abstract.dll
+D:\Предмети\MyProject\AniDate\test\Account.Api.Tests\bin\Debug\netcoreapp3.1\Account.Entities.dll
+D:\Предмети\MyProject\AniDate\test\Account.Api.Tests\bin\Debug\netcoreapp3.1\Account.Dal.Abstract.pdb
+D:\Предмети\MyProject\AniDate\test\Account.Api.Tests\bin\Debug\netcoreapp3.1\Account.Entities.pdb

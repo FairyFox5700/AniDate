@@ -6,7 +6,9 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\..\AniDate.Common\AniDate.Common.csproj" />
+      <ProjectReference Include="..\Account.Dal.Abstract\Account.Dal.Abstract.csproj" />
       <ProjectReference Include="..\Account.Entities\Account.Entities.csproj" />
+      <ProjectReference Include="..\Account.Model\Account.Model.csproj" />
     </ItemGroup>
 
 
