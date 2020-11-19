@@ -32,7 +32,6 @@ namespace Account.Api.Tests
                         AnimalType = AnimalType.Cat,
                         PetName = $"pet {i}",
                         Breed = $"meat {i}",
-                        ImageId = i,
                         IsMail = true,
                         UserId = i
                     });

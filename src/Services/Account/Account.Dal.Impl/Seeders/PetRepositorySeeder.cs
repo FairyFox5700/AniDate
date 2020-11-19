@@ -14,7 +14,6 @@ namespace Account.Dal.Impl.Seeders
                 AboutMe = "I am cat",
                 AnimalType = AnimalType.Cat,
                 Breed = "meat",
-                ImageId = 1,
                 IsMail = true,
                 UserId = 1
             },
@@ -25,7 +24,6 @@ namespace Account.Dal.Impl.Seeders
                 AnimalType = AnimalType.Cat,
                 PetName = "pet",
                 Breed = "meat",
-                ImageId = 1,
                 IsMail = true,
                 UserId = 1
             }

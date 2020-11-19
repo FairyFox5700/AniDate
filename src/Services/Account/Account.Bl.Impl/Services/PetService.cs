@@ -91,7 +91,6 @@ namespace Account.Bl.Impl.Services
                     AnimalType = model.AnimalType,
                     PetName = model.PetName,
                     //TODO go to image service and add image then return image id
-                    ImageId = 1,
                     IsMail = model.IsMail,
                     //TODO check if user exists !!!
                     UserId = model.UserId

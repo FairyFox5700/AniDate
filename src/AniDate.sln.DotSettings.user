@@ -44,6 +44,11 @@
     &lt;/TestAncestor&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9453a303_002D6b86_002D4127_002Dbb1f_002D5edd2772d54b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PetsServiceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B1864E96-82A2-4188-AB88-4F27996B1EBF::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsServiceTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a6fe429b_002D764f_002D4442_002Dbc80_002D13598a535f94/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PostPet_WhenNewAdded_ReturnsCreatedPetId" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest.PostPet_WhenNewAdded_ReturnsCreatedPetId&lt;/TestId&gt;&#xD;
