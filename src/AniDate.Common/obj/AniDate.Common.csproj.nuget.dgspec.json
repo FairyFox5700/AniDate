@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj": {}
+    "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj": {}
   },
   "projects": {
-    "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj": {
+    "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj",
+        "projectUniqueName": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj",
         "projectName": "AniDate.Common",
-        "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\obj\\",
+        "projectPath": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj",
+        "packagesPath": "C:\\Users\\AndrryArmor\\.nuget\\packages\\",
+        "outputPath": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\AniDate.Common\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AndrryArmor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

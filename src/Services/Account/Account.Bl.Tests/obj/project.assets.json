@@ -7406,23 +7406,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\AndrryArmor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Tests\\Account.Bl.Tests.csproj",
+      "projectUniqueName": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\Services\\Account\\Account.Bl.Tests\\Account.Bl.Tests.csproj",
       "projectName": "Account.Bl.Tests",
-      "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Tests\\Account.Bl.Tests.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Tests\\obj\\",
+      "projectPath": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\Services\\Account\\Account.Bl.Tests\\Account.Bl.Tests.csproj",
+      "packagesPath": "C:\\Users\\AndrryArmor\\.nuget\\packages\\",
+      "outputPath": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\Services\\Account\\Account.Bl.Tests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AndrryArmor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7434,12 +7430,13 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Impl\\Account.Bl.Impl.csproj": {
-              "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Impl\\Account.Bl.Impl.csproj"
+            "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\Services\\Account\\Account.Bl.Impl\\Account.Bl.Impl.csproj": {
+              "projectPath": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\Services\\Account\\Account.Bl.Impl\\Account.Bl.Impl.csproj"
             },
-            "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj": {
-              "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj"
+            "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj": {
+              "projectPath": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj"
             }
           }
         }
@@ -7452,6 +7449,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -7488,7 +7486,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

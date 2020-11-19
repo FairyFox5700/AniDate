@@ -528,23 +528,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\AndrryArmor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj",
+      "projectUniqueName": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj",
       "projectName": "Account.Entities",
-      "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\obj\\",
+      "projectPath": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj",
+      "packagesPath": "C:\\Users\\AndrryArmor\\.nuget\\packages\\",
+      "outputPath": "E:\\AndrryArmor\\Git Repositories\\AniDate\\src\\Services\\Account\\Account.Entities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AndrryArmor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -556,6 +552,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -567,6 +564,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -588,7 +586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

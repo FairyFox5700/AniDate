@@ -1,26 +1,29 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.API", "Services\Account\Account.API\Account.API.csproj", "{38CAB97F-F1E7-4287-8F34-A50549B96C05}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.API", "Services\Account\Account.API\Account.API.csproj", "{38CAB97F-F1E7-4287-8F34-A50549B96C05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.API", "Identity\Identity.API\Identity.API.csproj", "{93BF7E5B-5F7B-44E9-8E6F-BB24D114C92C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.API", "Identity\Identity.API\Identity.API.csproj", "{93BF7E5B-5F7B-44E9-8E6F-BB24D114C92C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AniDate.Common", "AniDate.Common\AniDate.Common.csproj", "{3E2E36EB-9948-491E-9F82-177DFE059681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AniDate.Common", "AniDate.Common\AniDate.Common.csproj", "{3E2E36EB-9948-491E-9F82-177DFE059681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Api.Tests", "..\test\Account.Api.Tests\Account.Api.Tests.csproj", "{701A7AA4-4324-4807-9B27-A7B6C3E01247}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Api.Tests", "..\test\Account.Api.Tests\Account.Api.Tests.csproj", "{701A7AA4-4324-4807-9B27-A7B6C3E01247}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Entities", "Services\Account\Account.Entities\Account.Entities.csproj", "{B545AF02-7DB1-4FEF-A897-9C4B4950C7B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Entities", "Services\Account\Account.Entities\Account.Entities.csproj", "{B545AF02-7DB1-4FEF-A897-9C4B4950C7B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Dal.Impl", "Services\Account\Account.Dal.Impl\Account.Dal.Impl.csproj", "{B04849BD-F74B-478B-83A4-7605042EFA5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Dal.Impl", "Services\Account\Account.Dal.Impl\Account.Dal.Impl.csproj", "{B04849BD-F74B-478B-83A4-7605042EFA5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Dal.Abstract", "Services\Account\Account.Dal.Abstract\Account.Dal.Abstract.csproj", "{245368FC-912C-4B28-913B-39B7DFEC260E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Dal.Abstract", "Services\Account\Account.Dal.Abstract\Account.Dal.Abstract.csproj", "{245368FC-912C-4B28-913B-39B7DFEC260E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Model", "Services\Account\Account.Model\Account.Model.csproj", "{51E89734-E02B-4E31-8482-4B9D0C2B6FCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Model", "Services\Account\Account.Model\Account.Model.csproj", "{51E89734-E02B-4E31-8482-4B9D0C2B6FCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Bl.Abstract", "Services\Account\Account.Bl.Abstract\Account.Bl.Abstract.csproj", "{A3B318A2-3DB6-47D6-90E9-EE764D8F300B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Bl.Abstract", "Services\Account\Account.Bl.Abstract\Account.Bl.Abstract.csproj", "{A3B318A2-3DB6-47D6-90E9-EE764D8F300B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Bl.Impl", "Services\Account\Account.Bl.Impl\Account.Bl.Impl.csproj", "{1314FB8A-A6D6-40B6-801D-B733599ED56C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Bl.Impl", "Services\Account\Account.Bl.Impl\Account.Bl.Impl.csproj", "{1314FB8A-A6D6-40B6-801D-B733599ED56C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Bl.Tests", "Services\Account\Account.Bl.Tests\Account.Bl.Tests.csproj", "{B1864E96-82A2-4188-AB88-4F27996B1EBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Bl.Tests", "Services\Account\Account.Bl.Tests\Account.Bl.Tests.csproj", "{B1864E96-82A2-4188-AB88-4F27996B1EBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -72,5 +75,11 @@ Global
 		{B1864E96-82A2-4188-AB88-4F27996B1EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1864E96-82A2-4188-AB88-4F27996B1EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1864E96-82A2-4188-AB88-4F27996B1EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7AF912-A703-4FC7-A83C-EDF732700D27}
 	EndGlobalSection
 EndGlobal
