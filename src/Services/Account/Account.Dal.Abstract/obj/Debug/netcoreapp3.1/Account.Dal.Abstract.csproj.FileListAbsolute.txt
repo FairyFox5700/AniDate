@@ -1,0 +1,13 @@
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\bin\Debug\netcoreapp3.1\Account.Dal.Abstract.deps.json
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\bin\Debug\netcoreapp3.1\Account.Dal.Abstract.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\bin\Debug\netcoreapp3.1\Account.Dal.Abstract.pdb
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\bin\Debug\netcoreapp3.1\Account.Entities.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\bin\Debug\netcoreapp3.1\Account.Entities.pdb
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\obj\Debug\netcoreapp3.1\Account.Dal.Abstract.csprojAssemblyReference.cache
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\obj\Debug\netcoreapp3.1\Account.Dal.Abstract.AssemblyInfoInputs.cache
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\obj\Debug\netcoreapp3.1\Account.Dal.Abstract.AssemblyInfo.cs
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\obj\Debug\netcoreapp3.1\Account.Dal.Abstract.csproj.CopyComplete
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\obj\Debug\netcoreapp3.1\Account.Dal.Abstract.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\obj\Debug\netcoreapp3.1\Account.Dal.Abstract.pdb
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\bin\Debug\netcoreapp3.1\Account.Model.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Abstract\bin\Debug\netcoreapp3.1\Account.Model.pdb

@@ -1,0 +1,392 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Impl\\Account.Bl.Impl.csproj": {}
+  },
+  "projects": {
+    "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj",
+        "projectName": "AniDate.Common",
+        "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Abstract\\Account.Bl.Abstract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Abstract\\Account.Bl.Abstract.csproj",
+        "projectName": "Account.Bl.Abstract",
+        "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Abstract\\Account.Bl.Abstract.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Abstract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj": {
+                "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\AniDate.Common\\AniDate.Common.csproj"
+              },
+              "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Model\\Account.Model.csproj": {
+                "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Model\\Account.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Impl\\Account.Bl.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Impl\\Account.Bl.Impl.csproj",
+        "projectName": "Account.Bl.Impl",
+        "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Impl\\Account.Bl.Impl.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Impl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Abstract\\Account.Bl.Abstract.csproj": {
+                "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Bl.Abstract\\Account.Bl.Abstract.csproj"
+              },
+              "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj": {
+                "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj",
+        "projectName": "Account.Dal.Abstract",
+        "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\Account.Dal.Abstract.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Dal.Abstract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj": {
+                "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj"
+              },
+              "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Model\\Account.Model.csproj": {
+                "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Model\\Account.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj",
+        "projectName": "Account.Entities",
+        "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Model\\Account.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Model\\Account.Model.csproj",
+        "projectName": "Account.Model",
+        "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Model\\Account.Model.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj": {
+                "projectPath": "D:\\Предмети\\MyProject\\AniDate\\src\\Services\\Account\\Account.Entities\\Account.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

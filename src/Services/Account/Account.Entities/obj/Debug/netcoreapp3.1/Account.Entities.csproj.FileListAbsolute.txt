@@ -1,0 +1,8 @@
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\bin\Debug\netcoreapp3.1\Account.Entities.deps.json
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\bin\Debug\netcoreapp3.1\Account.Entities.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\bin\Debug\netcoreapp3.1\Account.Entities.pdb
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.csprojAssemblyReference.cache
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.AssemblyInfoInputs.cache
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.AssemblyInfo.cs
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.dll
+D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.pdb
