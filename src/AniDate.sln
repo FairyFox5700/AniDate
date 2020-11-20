@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Bl.Impl", "Services
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Bl.Tests", "Services\Account\Account.Bl.Tests\Account.Bl.Tests.csproj", "{B1864E96-82A2-4188-AB88-4F27996B1EBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client.React", "Client.React\Client.React.csproj", "{343C8BE8-6D48-4373-9D07-A61267A9BC93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B1864E96-82A2-4188-AB88-4F27996B1EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1864E96-82A2-4188-AB88-4F27996B1EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1864E96-82A2-4188-AB88-4F27996B1EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343C8BE8-6D48-4373-9D07-A61267A9BC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343C8BE8-6D48-4373-9D07-A61267A9BC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343C8BE8-6D48-4373-9D07-A61267A9BC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343C8BE8-6D48-4373-9D07-A61267A9BC93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
