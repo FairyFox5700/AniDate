@@ -1,0 +1,2 @@
+﻿dotnet ef migrations add InitialCreate --project D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Dal.Impl
+dotnet ef database update

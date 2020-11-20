@@ -13,6 +13,8 @@ namespace Account.API.Entities
         public string ImageFileName { get; set; }
         public string ImageUri { get; set; }
         public  string Extension { get; set; }
+        [ForeignKey(nameof(PetId))]
         public  int PetId { get; set; }
+        public  Pet Pet { get; set; }
     }
 }

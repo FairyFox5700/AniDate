@@ -16,7 +16,6 @@ namespace Account.API.Entities
         public string Breed { get; set; }
         public AnimalType AnimalType { get; set; }
         public string AboutMe { get; set; }
-        public List<Image> Images { get; set; }
     }
 
     [JsonConverter(typeof(JsonStringEnumConverter))]

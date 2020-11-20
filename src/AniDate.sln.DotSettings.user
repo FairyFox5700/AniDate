@@ -58,4 +58,6 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::701A7AA4-4324-4807-9B27-A7B6C3E01247::.NETCoreApp,Version=v3.1::Account.Api.Tests.PetsControllerTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>

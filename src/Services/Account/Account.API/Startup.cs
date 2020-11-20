@@ -5,11 +5,13 @@ using System.Threading.Tasks;
 using Account.Bl.Abstract.Services;
 using Account.Bl.Impl.Services;
 using Account.Dal.Abstract.Repositories;
+using Account.Dal.Impl;
 using Account.Dal.Impl.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -37,6 +39,9 @@ namespace Account.API
                 });
             services.AddTransient<IPetRepository<int>, PetRepository>();
             services.AddTransient<IPetService, PetService>();
+            services.AddDbContext<AniDateDbContext>(options =>
+                options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"),
+                    b => b.MigrationsAssembly("Account.Dal.Impl")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
