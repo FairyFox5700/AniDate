@@ -5,6 +5,15 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.0">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Moq" Version="4.15.1" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
       <ProjectReference Include="..\Account.Entities\Account.Entities.csproj" />
       <ProjectReference Include="..\Account.Model\Account.Model.csproj" />
     </ItemGroup>

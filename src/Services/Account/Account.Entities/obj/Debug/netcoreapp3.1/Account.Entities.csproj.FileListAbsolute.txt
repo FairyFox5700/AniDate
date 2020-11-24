@@ -6,3 +6,12 @@ D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\obj\
 D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.AssemblyInfo.cs
 D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.dll
 D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.pdb
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Entities\bin\Debug\netcoreapp3.1\Account.Entities.deps.json
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Entities\bin\Debug\netcoreapp3.1\Account.Entities.dll
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Entities\bin\Debug\netcoreapp3.1\Account.Entities.pdb
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.csprojAssemblyReference.cache
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.AssemblyInfoInputs.cache
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.AssemblyInfo.cs
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.csproj.CoreCompileInputs.cache
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.dll
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Entities\obj\Debug\netcoreapp3.1\Account.Entities.pdb

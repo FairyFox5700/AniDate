@@ -9,3 +9,15 @@ D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Model\obj\Deb
 D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Model\obj\Debug\netcoreapp3.1\Account.Model.csproj.CopyComplete
 D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Model\obj\Debug\netcoreapp3.1\Account.Model.dll
 D:\Предмети\MyProject\AniDate\src\Services\Account\Account.Model\obj\Debug\netcoreapp3.1\Account.Model.pdb
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\bin\Debug\netcoreapp3.1\Account.Model.deps.json
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\bin\Debug\netcoreapp3.1\Account.Model.dll
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\bin\Debug\netcoreapp3.1\Account.Model.pdb
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\bin\Debug\netcoreapp3.1\Account.Entities.dll
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\bin\Debug\netcoreapp3.1\Account.Entities.pdb
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\obj\Debug\netcoreapp3.1\Account.Model.csprojAssemblyReference.cache
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\obj\Debug\netcoreapp3.1\Account.Model.AssemblyInfoInputs.cache
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\obj\Debug\netcoreapp3.1\Account.Model.AssemblyInfo.cs
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\obj\Debug\netcoreapp3.1\Account.Model.csproj.CoreCompileInputs.cache
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\obj\Debug\netcoreapp3.1\Account.Model.csproj.CopyComplete
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\obj\Debug\netcoreapp3.1\Account.Model.dll
+C:\Users\SnizhokMA\source\repos\AniDate\src\Services\Account\Account.Model\obj\Debug\netcoreapp3.1\Account.Model.pdb
